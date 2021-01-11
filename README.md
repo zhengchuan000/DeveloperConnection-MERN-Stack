@@ -1,2 +1,6 @@
-# DeveloperConnection-MERN-Stack
-This is a MERN Stack Website
+# Initial page
+
+Chuan Zheng's Private Notes
+
+
+
