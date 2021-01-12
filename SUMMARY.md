@@ -2,11 +2,7 @@
 
 * [Initial page](README.md)
 
-## Python
-
-* [Untitled](python/untitled.md)
-
 ## Java
 
-* [Untitled](java/untitled.md)
+* [synchronize 关键字](java/synchronize-guan-jian-zi.md)
 
